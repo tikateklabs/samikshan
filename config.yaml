@@ -31,11 +31,11 @@ params:
     # Main hero title
     title: Learn. Implement.
     # Hero subtitle (optional)
-    subtitle: Your guide to the world of psychology
+    subtitle: Your guide to the world of Psychology.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "first_post"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
